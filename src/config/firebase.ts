@@ -1,5 +1,3 @@
-@@ .. @@
- const firebaseConfig = {
    apiKey: "AIzaSyApoEIo4LLJ0HjWpMSaDNjO5qQzrnyKA4Q",
    authDomain: "instaadgen-3e55d.firebaseapp.com",
    projectId: "instaadgen-3e55d",

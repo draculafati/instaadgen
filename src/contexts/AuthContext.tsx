@@ -1,5 +1,3 @@
-@@ .. @@
-   useEffect(() => {
      // Listen to Firebase auth state changes
 -    const unsubscribe = firebaseService.onAuthStateChanged(async (firebaseUser: FirebaseUser | null) => {
 -      if (firebaseUser) {
