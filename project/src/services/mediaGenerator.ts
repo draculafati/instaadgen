@@ -17,6 +17,7 @@ export interface GeneratedMedia {
   description: string;
 }
 
+
 export interface MediaResponse {
   media: GeneratedMedia[];
   hashtags: string[];
