@@ -84,3 +84,5 @@
      </Router>
    );
  }
+
+export default App
