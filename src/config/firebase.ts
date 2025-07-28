@@ -4,13 +4,13 @@ import { initializeFirestore, getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyApoEIo4LLJ0HjWpMSaDNjO5qQzrnyKA4Q",
-  authDomain: "instaadgen-3e55d.firebaseapp.com",
-  projectId: "instaadgen-3e55d",
-  storageBucket: "instaadgen-3e55d.appspot.com",
-  messagingSenderId: "697559770190",
-  appId: "1:697559770190:web:694abd200080c61743cf1f",
-  measurementId: "G-FH8HNWQG9J"
+  apiKey: "AIzaSyB-v341GDnqlR86rCWxhVOu_DJ0qtQqYDc",
+  authDomain: "instaadgen20.firebaseapp.com",
+  projectId: "instaadgen20",
+  storageBucket: "instaadgen20.firebasestorage.app",
+  messagingSenderId: "666194610158",
+  appId: "1:666194610158:web:5cc03722cdb2b4174170ff",
+  measurementId: "G-13JHV8SPNZ"
 };
 
 // Initialize Firebase
